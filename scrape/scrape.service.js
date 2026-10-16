@@ -51,7 +51,7 @@ let ScrapeService = class ScrapeService {
         return (0, path_1.join)(__dirname, "../assets", name);
     }
     cookieData() {
-        return "intercom-device-id-nketzd4e=89b146aa-a2ce-4e1d-b51c-db8679a621f3; _fbp=fb.1.1758989870657.746529134664093898; _tt_enable_cookie=1; _ttp=01K65ZKRRE0VB2A4HX2BC4CCX4_.tt.1; _twpid=tw.1772690510849.174219717901080269; zealy_use_new_flags=true; zealy_new_flags_rollout=50; mp_331e7ed57ec193ae7fde9e90b8ef68d4_mixpanel=%7B%22distinct_id%22%3A%22%24device%3Addc59a2d-822e-4b3e-a277-9bd6bb491f7d%22%2C%22%24device_id%22%3A%22ddc59a2d-822e-4b3e-a277-9bd6bb491f7d%22%2C%22%24search_engine%22%3A%22google%22%2C%22%24initial_referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%22www.google.com%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22https%3A%2F%2Fwww.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%22www.google.com%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; _dd_s=aid=467e4c46-c170-4ef0-8e8f-65542e5f3854&logs=0&expire=1784151517133&rum=0; ttcsid=1787217472844::BIJp52pN5jglKi7dM4hD.55.1787217488039.0::1.5822.0::15169.6.1292.445::10657.2.0; ttcsid_CO6OII3C77UAL9O5M6RG=1787217472841::bAgweBEGHq88DJzLjXNB.55.1787217488039.1; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhNWJkODIyZC0zN2M3LTQyZTQtYTY2NS05MThlZDg2MDQyMDciLCJhY2NvdW50VHlwZSI6ImVtYWlsIiwiZW1haWwiOiJ1bmFtaXRpbkBnbWFpbC5jb20iLCJsYXN0RW1haWxDaGVjayI6MTc4OTM3NDU3Mjc0OSwiaWF0IjoxNzg5Mzc0NTcyLCJleHAiOjE3OTE5NjY1NzJ9.Oc99Y59QobnSH_WvtsJlIRuWocHI3bkWfAsNuzZFoa8; user_metadata=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhNWJkODIyZC0zN2M3LTQyZTQtYTY2NS05MThlZDg2MDQyMDciLCJpYXQiOjE3ODkzNzQ1NzIsImV4cCI6MTc5MTk2NjU3Mn0.l5kKsVRLxZJktjABvbTw6sg6aRFNaUaRDKVbhsKQCuE; cookie-config={%22analytics%22:true%2C%22marketing%22:true%2C%22functional%22:true}; invitationId=KqtVhkSzQc1WqJHnGmHN-; banner=true; popup%3Apredtctex456=true; _twsid=1791746756517-503068453.10.1791746766527; intercom-session-nketzd4e=ZG9JMTJjWDlFdGttK2VrR2hsbUpBWUNWZGgvNnlmeFpEMTg0NG0wQWt3WlZnai9NYjlyTUE5dGl5RkxYengzVlZFRDRhSmpUOEJlTWRTWStLZEdCd05Mc2VJVkZxcTQ0TmNaT3BhNkQ3MFhaYm5nVG12c1FzaGxHTlcrZlA2TmZLeno2TWNXQk03TUVTOThpWHVuM2Z0VVRYRWdKRTBmMnlibEgwTm80QSt6N1k3bFlqNC9wUm53VGZJcnJsZHliQ3FHWnlDWWpjK3orVXZ6RWNkanhzUT09LS1JbUlkV0g1MHFYNjFFcVpYN0RPSzN3PT0=--aae98e508e416af419beaf96c75a0e6bfb4f80c4";
+        return "_fbp=fb.1.1781517338895.757430795423430451; _twpid=tw.1781517339117.156029104869357195; intercom-device-id-nketzd4e=85f64866-dd1b-4ef1-ab00-d27fea284cee; mp_331e7ed57ec193ae7fde9e90b8ef68d4_mixpanel=%7B%22distinct_id%22%3A%22%24device%3A44b97178-1297-456f-afff-8fafad21b70d%22%2C%22%24device_id%22%3A%2244b97178-1297-456f-afff-8fafad21b70d%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D; _dd_s=aid=a919a45b-97e5-41c8-9c9c-bf1d6f836286&logs=0&expire=1784669121937&rum=0; cookie-config={%22analytics%22:true%2C%22marketing%22:true%2C%22functional%22:true}; access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YjVkYjY0YS05YjI3LTQ0MjQtOTE0Zi0yZDc4N2EwMWUxYmQiLCJhY2NvdW50VHlwZSI6ImVtYWlsIiwiZW1haWwiOiJhbmllZmlva2V0dWswMzJAZ21haWwuY29tIiwibGFzdEVtYWlsQ2hlY2siOjE3OTAyNjI2ODEwMTMsImlhdCI6MTc5MDI2MjY4MSwiZXhwIjoxNzkyODU0NjgxfQ.DPgPwc90NmW1vxP5_b3qrG7sY4KBJXGBpe2PHE_YAvg; user_metadata=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YjVkYjY0YS05YjI3LTQ0MjQtOTE0Zi0yZDc4N2EwMWUxYmQiLCJpYXQiOjE3OTAyNjI2ODEsImV4cCI6MTc5Mjg1NDY4MX0.H5VenTRluRtP9bQpkPcrxxm-SqP-bQlF_p6qofBUG4E; popup%3Apredtctex456=true; _twsid=1791898639622-846535574.9.1791898799417; referrer-url=https://zealy.io/cw/vayla/users/43f21497-454c-4c07-9a7a-43226e6ac72b; intercom-session-nketzd4e=L2RhR1Y3NGl5N1V5a0R1QTlZc0JFSDRTVjM1ZThUVUFxWHBaT3pBeDg4OWpDR0JCaUwrZzlaaGpyc2NxZTdRTFgwcmgrMkZtOVFFT3Q4ajZiK0EvL0ovL085RkZFWC9YaE5qZlV1bWRDWnJObkUzSHBZcWlzNGh6MVFzR3hldmNLOW1jWHFJaFJQcnZHeHhSODhBVTdHRnNJMXNSOEtuQVZvK2hDdDZ0TnpoamYxMUxpTSt3RzJ3dHZ6RVdrcyt5TG52RkMrbFlUNjYrRlpTYWJvRkJ0QT09LS1FTXpjd0VtN3kzVDRiTm9rTE9WM1FnPT0=--68c369ab7d6150fac5d6c9880c5154e38e9b64b4";
     }
     async sendMessage(chatId, text) {
         await fetch(`${this.baseUrl}/sendMessage`, {
@@ -147,15 +147,16 @@ let ScrapeService = class ScrapeService {
                 throw new Error(`Request failed: ${response.status}`);
             }
             const res = await response.json();
-            const minimalData = res.flatMap((category) => category.quests.map((q) => ({
-                categoryId: category.id,
-                questId: q.id,
-                completed: q.completed,
-                claimed: q.claimed,
-                opened: q.opened,
-                canRetry: q.canRetry,
-                locked: q.locked,
-            })));
+const categories = Array.isArray(res) ? res : [res];
+const minimalData = categories.flatMap((category) => (category.quests || []).map((q) => ({
+    categoryId: category.id,
+    questId: q.id,
+    completed: q.completed,
+    claimed: q.claimed,
+    opened: q.opened,
+    canRetry: q.canRetry,
+    locked: q.locked,
+})));
             const fileContent = await this.getFileContent(filePath);
             if (!fileContent || fileContent.trim() === "") {
                 if (minimalData.length > 0) {
